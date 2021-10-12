@@ -1,4 +1,6 @@
 # EC601_TeamProject
+A slide of introduction:
+https://docs.google.com/presentation/d/1Ml08Yu5EcXgjh7OZnyqD4ar7gpJOCbgq9BWKe4Tht6Y/edit?usp=sharing
 
 ## Project Name
 
