@@ -1,6 +1,8 @@
 # EC601_TeamProject
 A slide of introduction:
 https://docs.google.com/presentation/d/1Ml08Yu5EcXgjh7OZnyqD4ar7gpJOCbgq9BWKe4Tht6Y/edit?usp=sharing
+A slide of sprintf2:
+https://docs.google.com/presentation/d/1rWxHLD39EQtXEbLIKtgPC7BiwJezJn6im4-S-1St2_0/edit?usp=sharing
 
 ## Project Name
 
