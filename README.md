@@ -6,6 +6,10 @@ A slide of sprintf2:
 
 https://docs.google.com/presentation/d/1rWxHLD39EQtXEbLIKtgPC7BiwJezJn6im4-S-1St2_0/edit?usp=sharing
 
+A slide of sprintf3:
+
+https://docs.google.com/presentation/d/1wYL6pQ6y110I-KgQtBeEuGDZfdxfKC0K/edit?usp=sharing&ouid=110984169321490688208&rtpof=true&sd=true
+
 ## Project Name
 
  Building 3D scenes from 2D images using ML algorithms
