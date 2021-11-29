@@ -10,6 +10,10 @@ A slide of sprintf3:
 
 https://docs.google.com/presentation/d/1wYL6pQ6y110I-KgQtBeEuGDZfdxfKC0K/edit?usp=sharing&ouid=110984169321490688208&rtpof=true&sd=true
 
+A colab demo:
+
+https://colab.research.google.com/drive/1JcOQ6BzWkx5I7iDJDJZpJuQMuRW0o8di?usp=sharing
+
 ## Project Name
 
  Building 3D scenes from 2D images using ML algorithms
