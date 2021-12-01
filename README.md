@@ -10,6 +10,9 @@ A slide of sprintf3:
 
 https://docs.google.com/presentation/d/1wYL6pQ6y110I-KgQtBeEuGDZfdxfKC0K/edit?usp=sharing&ouid=110984169321490688208&rtpof=true&sd=true
 
+A slide of sprintf4:
+
+https://docs.google.com/presentation/d/1p4oxN0wfoQRfM4-FxlYeI_ETcLXJvYExsFN92IwYaJQ/edit?usp=sharing
 A colab demo:
 
 https://colab.research.google.com/drive/1JcOQ6BzWkx5I7iDJDJZpJuQMuRW0o8di?usp=sharing
